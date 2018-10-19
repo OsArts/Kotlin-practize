@@ -1,10 +1,20 @@
 # Kotlin for android development
 
-Let's starting!
+:green_heart: Let's starting!
 
 This repo for one more practic of `#Kotlin-languge`.
 
+[play.kotlinlang.org/](https://play.kotlinlang.org/)
+
 ## Courses
+
+## Course kotlin Russian1
+
+### Введение в Kotlin JVM 10/108
+
+#### Синтаксис и семантика
+
+##### Введение
 
 ### Stepik
 
